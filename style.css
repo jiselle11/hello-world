@@ -29,7 +29,7 @@ p{
 .btn:hover{
     background-color: #ededed !important;
     color: #3c3c3c !important;
-    border: 1px solid #fff !important;
+    border: 1px solid #000fff !important;
 }
 
 /*NAVIGATION*/
@@ -58,6 +58,20 @@ p{
     max-width: 1500px;
     height: 500px;
 }
+
+/*ABOUT US*/
+.about{
+    padding: 80px 0 80px;
+    text-align: center;
+}
+
+.about span{
+    width:100px;
+    color:#4c4c4c;
+    padding:10px;
+    display:inline-block;
+    font-size: 20px;
 }
 }
-}
+
+
